@@ -1,3 +1,49 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10988</md:content-id>  <md:title>Social Sciences: History Grade 5</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>74b64c37-dcef-4220-8121-3c797872031d</md:uuid>
-<md:slug>social-sciences-history-grade-5</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Term 1</md:title>                                <col:content>                    <col:module document="m22356"/>                            <col:module document="m22358"/>                            <col:module document="m22360"/>                            <col:module document="m22367"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 2</md:title>                                <col:content>                    <col:module document="m22371"/>                            <col:module document="m22373"/>                            <col:module document="m22378"/>                            <col:module document="m22390"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 3</md:title>                                <col:content>                    <col:module document="m22391"/>                            <col:module document="m22393"/>                            <col:module document="m22394"/>                            <col:module document="m22395"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 4</md:title>                                <col:content>                    <col:module document="m22396"/>                            <col:module document="m22402"/>                            <col:module document="m22407"/>                            <col:module document="m22413"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10988</md:content-id>
+    <md:title>Social Sciences: History Grade 5</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>74b64c37-dcef-4220-8121-3c797872031d</md:uuid>
+    <md:slug>social-sciences-history-grade-5</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Term 1</md:title>
+      <col:content>
+        <col:module document="m22356"/>
+        <col:module document="m22358"/>
+        <col:module document="m22360"/>
+        <col:module document="m22367"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 2</md:title>
+      <col:content>
+        <col:module document="m22371"/>
+        <col:module document="m22373"/>
+        <col:module document="m22378"/>
+        <col:module document="m22390"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 3</md:title>
+      <col:content>
+        <col:module document="m22391"/>
+        <col:module document="m22393"/>
+        <col:module document="m22394"/>
+        <col:module document="m22395"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 4</md:title>
+      <col:content>
+        <col:module document="m22396"/>
+        <col:module document="m22402"/>
+        <col:module document="m22407"/>
+        <col:module document="m22413"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
